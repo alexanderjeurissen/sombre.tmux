@@ -1,4 +1,4 @@
-# ⚫️ DSombre.tmux
+# ⚫️ Sombre.tmux
 
 > The world’s light shines, shine as it will,
 > The world will love its darkness still.
