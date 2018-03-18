@@ -6,15 +6,15 @@
 > It will not love its darkness half so well.
 > ~ Poem by Richard Crashaw
 
-A tmux colorscheme that predominately uses white text on a black background.
+A tmux colorscheme that predominately uses white, grays, and black.
 
-![image](https://raw.githubusercontent.com/alexanderjeurissen/tmux-colors-sombre/master/screenshots/screenshot.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/sombre.tmux/master/screenshots/screenshot.png)
 
 ### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
 
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-    set -g @plugin 'alexanderjeurissen/tmux-colors-sombre'
+    set -g @plugin 'alexanderjeurissen/sombre.tmux'
 
 Hit `prefix + I` to fetch the plugin and source it.
 
@@ -24,11 +24,11 @@ Reload your tmux configuration and the colorscheme should be loaded.
 
 Clone the repo:
 
-    $ git clone https://github.com/alexanderjeurissen/tmux-colors-sombre ~/clone/path
+    $ git clone https://github.com/alexanderjeurissen/sombre.tmux ~/clone/path
 
 Add this line to the bottom of `.tmux.conf`:
 
-    run-shell ~/clone/path/tmux_colors_sombre.tmux
+    run-shell ~/clone/path/sombre.tmux
 
 Reload TMUX environment:
 
