@@ -1,4 +1,4 @@
-# ⚫️ Sombre.tmux
+![image](https://raw.githubusercontent.com/alexanderjeurissen/sombre.tmux/master/assets/sombre_logo.png)
 
 > The world’s light shines, shine as it will,
 > The world will love its darkness still.
@@ -7,8 +7,9 @@
 > ~ Poem by Richard Crashaw
 
 A tmux colorscheme that predominately uses white, grays, and black.
+Looks even more awesome when combined with [lumiere.vim](https://github.com/alexanderjeurissen/lumiere.vim)
 
-![image](https://raw.githubusercontent.com/alexanderjeurissen/sombre.tmux/master/screenshots/screenshot.png)
+![image](https://raw.githubusercontent.com/alexanderjeurissen/sombre.tmux/master/assets/screenshot.png)
 
 ### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
 
